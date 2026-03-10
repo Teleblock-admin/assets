@@ -8,10 +8,18 @@
     "decimals": 18,
     "status": "active",
     "id": "0x825C68DC8e885203b563119017dd30C8644A35ed",
+    "tags": [
+        "defi",
+        "payments"
+    ],
     "links": [
         {
             "name": "website",
             "url": "https://teleblock.com.br"
+        },
+        {
+            "name": "twitter",
+            "url": "https://x.com/teleabordo"
         }
     ]
 }
