@@ -1,0 +1,17 @@
+{
+    "name": "TELEBLOCK",
+    "website": "https://teleblock.com.br",
+    "description": "Teleblock is a telecom and crypto platform offering mobile services and a digital wallet on Polygon.",
+    "explorer": "https://polygonscan.com/token/0x825C68DC8e885203b563119017dd30C8644A35ed",
+    "type": "POLYGON",
+    "symbol": "TLB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x825C68DC8e885203b563119017dd30C8644A35ed",
+    "links": [
+        {
+            "name": "website",
+            "url": "https://teleblock.com.br"
+        }
+    ]
+}
